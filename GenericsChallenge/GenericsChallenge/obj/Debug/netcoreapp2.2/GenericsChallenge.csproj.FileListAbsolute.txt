@@ -1,0 +1,11 @@
+C:\Users\bthornhill\source\repos\Demos\WeeklyChallenges\GenericsChallenge\GenericsChallenge\bin\Debug\netcoreapp2.2\GenericsChallenge.deps.json
+C:\Users\bthornhill\source\repos\Demos\WeeklyChallenges\GenericsChallenge\GenericsChallenge\bin\Debug\netcoreapp2.2\GenericsChallenge.runtimeconfig.json
+C:\Users\bthornhill\source\repos\Demos\WeeklyChallenges\GenericsChallenge\GenericsChallenge\bin\Debug\netcoreapp2.2\GenericsChallenge.runtimeconfig.dev.json
+C:\Users\bthornhill\source\repos\Demos\WeeklyChallenges\GenericsChallenge\GenericsChallenge\bin\Debug\netcoreapp2.2\GenericsChallenge.dll
+C:\Users\bthornhill\source\repos\Demos\WeeklyChallenges\GenericsChallenge\GenericsChallenge\bin\Debug\netcoreapp2.2\GenericsChallenge.pdb
+C:\Users\bthornhill\source\repos\Demos\WeeklyChallenges\GenericsChallenge\GenericsChallenge\obj\Debug\netcoreapp2.2\GenericsChallenge.csprojAssemblyReference.cache
+C:\Users\bthornhill\source\repos\Demos\WeeklyChallenges\GenericsChallenge\GenericsChallenge\obj\Debug\netcoreapp2.2\GenericsChallenge.csproj.CoreCompileInputs.cache
+C:\Users\bthornhill\source\repos\Demos\WeeklyChallenges\GenericsChallenge\GenericsChallenge\obj\Debug\netcoreapp2.2\GenericsChallenge.AssemblyInfoInputs.cache
+C:\Users\bthornhill\source\repos\Demos\WeeklyChallenges\GenericsChallenge\GenericsChallenge\obj\Debug\netcoreapp2.2\GenericsChallenge.AssemblyInfo.cs
+C:\Users\bthornhill\source\repos\Demos\WeeklyChallenges\GenericsChallenge\GenericsChallenge\obj\Debug\netcoreapp2.2\GenericsChallenge.dll
+C:\Users\bthornhill\source\repos\Demos\WeeklyChallenges\GenericsChallenge\GenericsChallenge\obj\Debug\netcoreapp2.2\GenericsChallenge.pdb
