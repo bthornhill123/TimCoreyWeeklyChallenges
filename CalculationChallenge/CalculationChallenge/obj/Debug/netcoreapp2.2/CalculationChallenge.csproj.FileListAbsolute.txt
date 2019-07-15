@@ -1,0 +1,11 @@
+C:\Users\bthornhill\source\repos\Demos\WeeklyChallenges\CalculationChallenge\CalculationChallenge\bin\Debug\netcoreapp2.2\CalculationChallenge.deps.json
+C:\Users\bthornhill\source\repos\Demos\WeeklyChallenges\CalculationChallenge\CalculationChallenge\bin\Debug\netcoreapp2.2\CalculationChallenge.runtimeconfig.json
+C:\Users\bthornhill\source\repos\Demos\WeeklyChallenges\CalculationChallenge\CalculationChallenge\bin\Debug\netcoreapp2.2\CalculationChallenge.runtimeconfig.dev.json
+C:\Users\bthornhill\source\repos\Demos\WeeklyChallenges\CalculationChallenge\CalculationChallenge\bin\Debug\netcoreapp2.2\CalculationChallenge.dll
+C:\Users\bthornhill\source\repos\Demos\WeeklyChallenges\CalculationChallenge\CalculationChallenge\bin\Debug\netcoreapp2.2\CalculationChallenge.pdb
+C:\Users\bthornhill\source\repos\Demos\WeeklyChallenges\CalculationChallenge\CalculationChallenge\obj\Debug\netcoreapp2.2\CalculationChallenge.csprojAssemblyReference.cache
+C:\Users\bthornhill\source\repos\Demos\WeeklyChallenges\CalculationChallenge\CalculationChallenge\obj\Debug\netcoreapp2.2\CalculationChallenge.csproj.CoreCompileInputs.cache
+C:\Users\bthornhill\source\repos\Demos\WeeklyChallenges\CalculationChallenge\CalculationChallenge\obj\Debug\netcoreapp2.2\CalculationChallenge.AssemblyInfoInputs.cache
+C:\Users\bthornhill\source\repos\Demos\WeeklyChallenges\CalculationChallenge\CalculationChallenge\obj\Debug\netcoreapp2.2\CalculationChallenge.AssemblyInfo.cs
+C:\Users\bthornhill\source\repos\Demos\WeeklyChallenges\CalculationChallenge\CalculationChallenge\obj\Debug\netcoreapp2.2\CalculationChallenge.dll
+C:\Users\bthornhill\source\repos\Demos\WeeklyChallenges\CalculationChallenge\CalculationChallenge\obj\Debug\netcoreapp2.2\CalculationChallenge.pdb
