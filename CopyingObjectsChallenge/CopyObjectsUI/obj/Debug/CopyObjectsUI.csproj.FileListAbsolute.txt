@@ -1,0 +1,10 @@
+C:\Users\bthornhill\source\repos\Demos\WeeklyChallenges\CopyingObjectsChallenge\CopyObjectsUI\bin\Debug\CopyObjectsUI.exe.config
+C:\Users\bthornhill\source\repos\Demos\WeeklyChallenges\CopyingObjectsChallenge\CopyObjectsUI\bin\Debug\CopyObjectsUI.exe
+C:\Users\bthornhill\source\repos\Demos\WeeklyChallenges\CopyingObjectsChallenge\CopyObjectsUI\bin\Debug\CopyObjectsUI.pdb
+C:\Users\bthornhill\source\repos\Demos\WeeklyChallenges\CopyingObjectsChallenge\CopyObjectsUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bthornhill\source\repos\Demos\WeeklyChallenges\CopyingObjectsChallenge\CopyObjectsUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\bthornhill\source\repos\Demos\WeeklyChallenges\CopyingObjectsChallenge\CopyObjectsUI\obj\Debug\CopyObjectsUI.csprojAssemblyReference.cache
+C:\Users\bthornhill\source\repos\Demos\WeeklyChallenges\CopyingObjectsChallenge\CopyObjectsUI\obj\Debug\CopyObjectsUI.csproj.CoreCompileInputs.cache
+C:\Users\bthornhill\source\repos\Demos\WeeklyChallenges\CopyingObjectsChallenge\CopyObjectsUI\obj\Debug\CopyObjectsUI.csproj.CopyComplete
+C:\Users\bthornhill\source\repos\Demos\WeeklyChallenges\CopyingObjectsChallenge\CopyObjectsUI\obj\Debug\CopyObjectsUI.exe
+C:\Users\bthornhill\source\repos\Demos\WeeklyChallenges\CopyingObjectsChallenge\CopyObjectsUI\obj\Debug\CopyObjectsUI.pdb
