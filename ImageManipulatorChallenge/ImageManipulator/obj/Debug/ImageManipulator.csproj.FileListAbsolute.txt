@@ -1,0 +1,10 @@
+C:\Users\bthornhill\source\repos\Demos\WeeklyChallenges\ImageManipulatorChallenge\ImageManipulator\bin\Debug\ImageManipulator.exe.config
+C:\Users\bthornhill\source\repos\Demos\WeeklyChallenges\ImageManipulatorChallenge\ImageManipulator\bin\Debug\ImageManipulator.exe
+C:\Users\bthornhill\source\repos\Demos\WeeklyChallenges\ImageManipulatorChallenge\ImageManipulator\bin\Debug\ImageManipulator.pdb
+C:\Users\bthornhill\source\repos\Demos\WeeklyChallenges\ImageManipulatorChallenge\ImageManipulator\obj\Debug\ImageManipulator.csprojAssemblyReference.cache
+C:\Users\bthornhill\source\repos\Demos\WeeklyChallenges\ImageManipulatorChallenge\ImageManipulator\obj\Debug\ImageManipulator.Dashboard.resources
+C:\Users\bthornhill\source\repos\Demos\WeeklyChallenges\ImageManipulatorChallenge\ImageManipulator\obj\Debug\ImageManipulator.Properties.Resources.resources
+C:\Users\bthornhill\source\repos\Demos\WeeklyChallenges\ImageManipulatorChallenge\ImageManipulator\obj\Debug\ImageManipulator.csproj.GenerateResource.cache
+C:\Users\bthornhill\source\repos\Demos\WeeklyChallenges\ImageManipulatorChallenge\ImageManipulator\obj\Debug\ImageManipulator.csproj.CoreCompileInputs.cache
+C:\Users\bthornhill\source\repos\Demos\WeeklyChallenges\ImageManipulatorChallenge\ImageManipulator\obj\Debug\ImageManipulator.exe
+C:\Users\bthornhill\source\repos\Demos\WeeklyChallenges\ImageManipulatorChallenge\ImageManipulator\obj\Debug\ImageManipulator.pdb
