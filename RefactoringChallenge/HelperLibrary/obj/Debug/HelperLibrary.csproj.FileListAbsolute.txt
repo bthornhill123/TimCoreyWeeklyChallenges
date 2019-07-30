@@ -1,0 +1,2 @@
+C:\Users\bthornhill\source\repos\Demos\WeeklyChallenges\RefactoringChallenge\HelperLibrary\obj\Debug\HelperLibrary.csprojAssemblyReference.cache
+C:\Users\bthornhill\source\repos\Demos\WeeklyChallenges\RefactoringChallenge\HelperLibrary\obj\Debug\HelperLibrary.csproj.CoreCompileInputs.cache

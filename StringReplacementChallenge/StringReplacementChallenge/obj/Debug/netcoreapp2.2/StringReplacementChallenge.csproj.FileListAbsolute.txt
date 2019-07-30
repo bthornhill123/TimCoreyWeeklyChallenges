@@ -1,0 +1,11 @@
+C:\Users\bthornhill\source\repos\Demos\WeeklyChallenges\StringReplacementChallenge\StringReplacementChallenge\bin\Debug\netcoreapp2.2\StringReplacementChallenge.deps.json
+C:\Users\bthornhill\source\repos\Demos\WeeklyChallenges\StringReplacementChallenge\StringReplacementChallenge\bin\Debug\netcoreapp2.2\StringReplacementChallenge.runtimeconfig.json
+C:\Users\bthornhill\source\repos\Demos\WeeklyChallenges\StringReplacementChallenge\StringReplacementChallenge\bin\Debug\netcoreapp2.2\StringReplacementChallenge.runtimeconfig.dev.json
+C:\Users\bthornhill\source\repos\Demos\WeeklyChallenges\StringReplacementChallenge\StringReplacementChallenge\bin\Debug\netcoreapp2.2\StringReplacementChallenge.dll
+C:\Users\bthornhill\source\repos\Demos\WeeklyChallenges\StringReplacementChallenge\StringReplacementChallenge\bin\Debug\netcoreapp2.2\StringReplacementChallenge.pdb
+C:\Users\bthornhill\source\repos\Demos\WeeklyChallenges\StringReplacementChallenge\StringReplacementChallenge\obj\Debug\netcoreapp2.2\StringReplacementChallenge.csprojAssemblyReference.cache
+C:\Users\bthornhill\source\repos\Demos\WeeklyChallenges\StringReplacementChallenge\StringReplacementChallenge\obj\Debug\netcoreapp2.2\StringReplacementChallenge.csproj.CoreCompileInputs.cache
+C:\Users\bthornhill\source\repos\Demos\WeeklyChallenges\StringReplacementChallenge\StringReplacementChallenge\obj\Debug\netcoreapp2.2\StringReplacementChallenge.AssemblyInfoInputs.cache
+C:\Users\bthornhill\source\repos\Demos\WeeklyChallenges\StringReplacementChallenge\StringReplacementChallenge\obj\Debug\netcoreapp2.2\StringReplacementChallenge.AssemblyInfo.cs
+C:\Users\bthornhill\source\repos\Demos\WeeklyChallenges\StringReplacementChallenge\StringReplacementChallenge\obj\Debug\netcoreapp2.2\StringReplacementChallenge.dll
+C:\Users\bthornhill\source\repos\Demos\WeeklyChallenges\StringReplacementChallenge\StringReplacementChallenge\obj\Debug\netcoreapp2.2\StringReplacementChallenge.pdb

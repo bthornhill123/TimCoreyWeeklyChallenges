@@ -1,0 +1,11 @@
+C:\Demos\WeeklyChallenges\FormImprovementChallenge\FormCleanupChallenge\bin\Debug\FormCleanupChallenge.exe.config
+C:\Demos\WeeklyChallenges\FormImprovementChallenge\FormCleanupChallenge\bin\Debug\FormCleanupChallenge.exe
+C:\Demos\WeeklyChallenges\FormImprovementChallenge\FormCleanupChallenge\bin\Debug\FormCleanupChallenge.pdb
+C:\Demos\WeeklyChallenges\FormImprovementChallenge\FormCleanupChallenge\obj\Debug\FormCleanupChallenge.csprojAssemblyReference.cache
+C:\Demos\WeeklyChallenges\FormImprovementChallenge\FormCleanupChallenge\obj\Debug\FormCleanupChallenge.Form1.resources
+C:\Demos\WeeklyChallenges\FormImprovementChallenge\FormCleanupChallenge\obj\Debug\FormCleanupChallenge.Form2.resources
+C:\Demos\WeeklyChallenges\FormImprovementChallenge\FormCleanupChallenge\obj\Debug\FormCleanupChallenge.Properties.Resources.resources
+C:\Demos\WeeklyChallenges\FormImprovementChallenge\FormCleanupChallenge\obj\Debug\FormCleanupChallenge.csproj.GenerateResource.cache
+C:\Demos\WeeklyChallenges\FormImprovementChallenge\FormCleanupChallenge\obj\Debug\FormCleanupChallenge.csproj.CoreCompileInputs.cache
+C:\Demos\WeeklyChallenges\FormImprovementChallenge\FormCleanupChallenge\obj\Debug\FormCleanupChallenge.exe
+C:\Demos\WeeklyChallenges\FormImprovementChallenge\FormCleanupChallenge\obj\Debug\FormCleanupChallenge.pdb
